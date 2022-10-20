@@ -1,6 +1,6 @@
 # Projeto de Script Linux | IaC
 
-Desenvolvi este Script onde toda a infraestrutura de usuários, grupos de usuários, diretórios e permissões serão criadas automaticamente.
+Desenvolvi este Script utilizando o RedHat 9.0, onde toda a infraestrutura de usuários, grupos de usuários, diretórios e permissões serão criadas automaticamente ao executá-lo.
 
 ## Habilidades desenvolvidas
 - Bash Script | IaC
