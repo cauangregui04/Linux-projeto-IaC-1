@@ -1,6 +1,6 @@
 #!/bin/bash
 
-##CRIANDO PASTAS|DIRETÓRIOS|USUÁRIOS SCRIPT
+##CRIANDO GRUPOS|DIRETÓRIOS|USUÁRIOS SCRIPT
 
 echo "Criando Diretórios"
 
